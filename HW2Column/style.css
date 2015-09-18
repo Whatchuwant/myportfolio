@@ -1,0 +1,35 @@
+h1 {
+    text-align: center;
+    font-size: 40px;
+}
+h3 {
+    text-align: center;
+}
+.floating-box {
+    display: inline-block;
+    width: 150px;
+    height: 75px;
+    margin: 0px auto;
+     
+}
+.nav {
+    background-color: #CAB1DA;
+    color: white;
+    width: 200px;
+    height: 250px;
+    margin: left;
+    position: fixed;
+    top:0px;
+}
+a:link {
+    color: #FF0000;
+    background-color:transparent
+    text-decoration:none;
+    font-size: 25px;
+}
+a:hover {
+    color:#FFFFFF;
+    background-color:transparent;
+    text-decoration:underline;
+    font-size: 25px;
+}
